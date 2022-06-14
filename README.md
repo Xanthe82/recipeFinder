@@ -1,4 +1,6 @@
 # recipeFinder
+To use this app you need to install Python 3 and requests.
+
 Python recipe search app
 This group project was created by myself and Malek Aliouche for the Code First Girls 'Introduction to Python and Apps' course. The brief was as follows:
 
